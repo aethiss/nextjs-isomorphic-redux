@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FunctionalComponent Render [FunctionalComponent]: Should render loading default page 1`] = `
+<main
+  className="main"
+>
+  <div>
+    loading ...
+  </div>
+</main>
+`;

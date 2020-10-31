@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomePage Component Render [HomePage] Default render desktop 1`] = `
+<main
+  className="main"
+>
+  <h3
+    className="title"
+  >
+    Aethiss Isomorphic App with 
+    <a
+      href="https://nextjs.org"
+    >
+      Next.js!
+    </a>
+  </h3>
+  <div
+    className="grid"
+  >
+    <a
+      className="card"
+      href="/SSR"
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+    >
+      <h3>
+        SSR Page →
+      </h3>
+      <p>
+        Example of Server Side Render Page
+      </p>
+    </a>
+    <a
+      className="card"
+      href="/CSR"
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+    >
+      <h3>
+        CSR Page →
+      </h3>
+      <p>
+        Example of Client Side Render Page (No SEO)
+      </p>
+    </a>
+    <a
+      className="card"
+      href="https://nextjs.org/docs"
+    >
+      <h3>
+        Documentation →
+      </h3>
+      <p>
+        Find in-depth information about Next.js features and API.
+      </p>
+    </a>
+    <a
+      className="card"
+      href="https://github.com/vercel/next.js/tree/master/examples"
+    >
+      <h3>
+        Examples →
+      </h3>
+      <p>
+        Discover and deploy boilerplate example Next.js projects.
+      </p>
+    </a>
+  </div>
+</main>
+`;

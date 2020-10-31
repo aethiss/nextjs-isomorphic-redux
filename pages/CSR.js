@@ -5,7 +5,7 @@ import React, { Component } from 'react'
 import Head from 'next/head'
 
 // Component
-import HomePage from '../src/components/containers/homepage/HomePage'
+import FunctionalComponent from '../src/components/containers/functionalComponent/FunctionalComponent'
 import Footer from '../src/components/commons/footer/Footer'
 
 // Styles
@@ -19,7 +19,7 @@ class Home extends Component {
           <title>SRR Next App</title>
           <link rel='icon' href='/favicon.ico' />
         </Head>
-        <HomePage />
+        <FunctionalComponent />
         <Footer />
       </div>
     )

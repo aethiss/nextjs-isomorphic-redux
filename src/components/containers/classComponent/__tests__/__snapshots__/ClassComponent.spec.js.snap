@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ClassComponent Component Render [ClassComponent] Default render desktop 1`] = `
+<main
+  className="main"
+>
+  <p
+    id="desktop"
+  >
+    This is a Server Side Render Page
+  </p>
+  <p>
+    This example use a React Class Component Connected with Redux
+  </p>
+  <p>
+    Start edit 
+    <code>
+      /components/classComponent/ClassComponent.js
+    </code>
+     
+    to play with this.
+  </p>
+  <p>
+    You are viewing with a 
+    Desktop
+    .
+    <br />
+  </p>
+  <p>
+    please visit
+     
+    <u>
+      <a
+        href="https://developers.google.com/speed/pagespeed/insights/?hl=EN"
+      >
+        Google Seo Analyze
+      </a>
+    </u>
+     
+    to test this page
+  </p>
+</main>
+`;
+
+exports[`ClassComponent Component Render [ClassComponent]: Default render mobile 1`] = `
+<main
+  className="main"
+>
+  <p
+    id="mobile"
+  >
+    This is a Server Side Render Page
+  </p>
+  <p>
+    This example use a React Class Component Connected with Redux
+  </p>
+  <p>
+    Start edit 
+    <code>
+      /components/classComponent/ClassComponent.js
+    </code>
+     
+    to play with this.
+  </p>
+  <p>
+    You are viewing with a 
+    Mobile
+    .
+    <br />
+    Your Mobile is iphone
+  </p>
+  <p>
+    please visit
+     
+    <u>
+      <a
+        href="https://developers.google.com/speed/pagespeed/insights/?hl=EN"
+      >
+        Google Seo Analyze
+      </a>
+    </u>
+     
+    to test this page
+  </p>
+</main>
+`;
